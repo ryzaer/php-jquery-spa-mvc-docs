@@ -28,4 +28,4 @@ License: [MIT](https://github.com/ryzaer/php-jquery-spa-mvc/blob/main/LICENSE)
 ```
 ## Document Lists
 ## Source
-Find our project [here](https://github.com/ryzaer/php-jquery-spa-mvc)
+Our project [here](https://github.com/ryzaer/php-jquery-spa-mvc)
