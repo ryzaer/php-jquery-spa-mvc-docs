@@ -1,5 +1,5 @@
 # PHP jQuery SPA MVC Documentation
 
 ## List
-## Source Project
+## Source
 Find our project [here](https://github.com/ryzaer/php-jquery-spa-mvc)
