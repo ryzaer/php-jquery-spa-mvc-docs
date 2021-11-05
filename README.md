@@ -26,6 +26,6 @@ License: [MIT](https://github.com/ryzaer/php-jquery-spa-mvc/blob/main/LICENSE)
 │     └──📂temp 
 └──📄index.php
 ```
-## List
+## Document Lists
 ## Source
 Find our project [here](https://github.com/ryzaer/php-jquery-spa-mvc)
